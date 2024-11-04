@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\mrjoe\\Projects\\ButterflyWebAPI\\ButterflyWebAPI.csproj": {}
+    "C:\\Users\\mrjoe\\OneDrive\\Writing a dissertation\\Documents\\GitHub\\ButterflyWebAPI\\ButterflyWebAPI.csproj": {}
   },
   "projects": {
-    "c:\\Users\\mrjoe\\Projects\\ButterflyWebAPI\\ButterflyWebAPI.csproj": {
+    "C:\\Users\\mrjoe\\OneDrive\\Writing a dissertation\\Documents\\GitHub\\ButterflyWebAPI\\ButterflyWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mrjoe\\Projects\\ButterflyWebAPI\\ButterflyWebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\mrjoe\\OneDrive\\Writing a dissertation\\Documents\\GitHub\\ButterflyWebAPI\\ButterflyWebAPI.csproj",
         "projectName": "ButterflyWebAPI",
-        "projectPath": "c:\\Users\\mrjoe\\Projects\\ButterflyWebAPI\\ButterflyWebAPI.csproj",
+        "projectPath": "C:\\Users\\mrjoe\\OneDrive\\Writing a dissertation\\Documents\\GitHub\\ButterflyWebAPI\\ButterflyWebAPI.csproj",
         "packagesPath": "C:\\Users\\mrjoe\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mrjoe\\Projects\\ButterflyWebAPI\\obj\\",
+        "outputPath": "C:\\Users\\mrjoe\\OneDrive\\Writing a dissertation\\Documents\\GitHub\\ButterflyWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mrjoe\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -43,6 +43,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"

@@ -1,12 +1,12 @@
+using Microsoft.AspNetCore.Authorization; // Add this using directive
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 
 namespace ButterflyWebAPI.Controllers;
 
-// ButterflyWebAPIController.cs
-using Microsoft.Extensions.Logging;
-
 [ApiController]
 [Route("api/[controller]")]
+[Authorize] // Protect all endpoints in this controller
 public class ButterflyWebAPIController : ControllerBase
 {
     private readonly ILogger<ButterflyWebAPIController> _logger;
