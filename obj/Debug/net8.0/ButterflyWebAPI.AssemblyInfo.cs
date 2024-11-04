@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ButterflyWebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4e4b8faaa007673badcee466cede5a47fab984b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b567d32e387544bed59b649c6dca69561177994d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ButterflyWebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ButterflyWebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
