@@ -1,0 +1,27 @@
+@ButterflyWebAPI_HostAddress = http://localhost:5155
+@num1=1
+@num2=2
+
+//Add HTTP test
+GET {{ButterflyWebAPI_HostAddress}}/api/ButterflyWebAPI/add?num1={{num1}}&num2={{num2}}
+Accept: accept: text/plain
+
+###
+
+//Subtraction HTTP test
+GET {{ButterflyWebAPI_HostAddress}}/api/ButterflyWebAPI/subtract?num1={{num1}}&num2={{num2}}
+Accept: application/json
+
+###
+//multiply HTTP test
+GET {{ButterflyWebAPI_HostAddress}}/api/ButterflyWebAPI/multiply?num1={{num1}}&num2={{num2}}
+Accept: application/json
+
+###
+
+//Divide HTTP test
+
+GET {{ButterflyWebAPI_HostAddress}}/api/ButterflyWebAPI/divide?num1={{num1}}&num2={{num2}}
+Accept: application/json
+
+###
