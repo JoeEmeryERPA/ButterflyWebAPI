@@ -30,3 +30,44 @@ c:\Users\mrjoe\Projects\ButterflyWebAPI\obj\Debug\net8.0\refint\ButterflyWebAPI.
 c:\Users\mrjoe\Projects\ButterflyWebAPI\obj\Debug\net8.0\ButterflyWebAPI.pdb
 c:\Users\mrjoe\Projects\ButterflyWebAPI\obj\Debug\net8.0\ButterflyWebAPI.genruntimeconfig.cache
 c:\Users\mrjoe\Projects\ButterflyWebAPI\obj\Debug\net8.0\ref\ButterflyWebAPI.dll
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\bin\Debug\net8.0\appsettings.json
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\bin\Debug\net8.0\ButterflyWebAPI.exe
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\bin\Debug\net8.0\ButterflyWebAPI.deps.json
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\bin\Debug\net8.0\ButterflyWebAPI.runtimeconfig.json
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\bin\Debug\net8.0\ButterflyWebAPI.dll
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\bin\Debug\net8.0\ButterflyWebAPI.pdb
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\obj\Debug\net8.0\ButterflyWebAPI.csproj.AssemblyReference.cache
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\obj\Debug\net8.0\ButterflyWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\obj\Debug\net8.0\ButterflyWebAPI.AssemblyInfoInputs.cache
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\obj\Debug\net8.0\ButterflyWebAPI.AssemblyInfo.cs
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\obj\Debug\net8.0\ButterflyWebAPI.csproj.CoreCompileInputs.cache
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\obj\Debug\net8.0\ButterflyWebAPI.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\obj\Debug\net8.0\ButterflyWebAPI.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\obj\Debug\net8.0\ButterflyWebAPI.sourcelink.json
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.ButterflyWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ButterflyWebAPI.props
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ButterflyWebAPI.props
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ButterflyWebAPI.props
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\obj\Debug\net8.0\scopedcss\bundle\ButterflyWebAPI.styles.css
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\obj\Debug\net8.0\Butterfl.62A2DECF.Up2Date
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\obj\Debug\net8.0\ButterflyWebAPI.dll
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\obj\Debug\net8.0\refint\ButterflyWebAPI.dll
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\obj\Debug\net8.0\ButterflyWebAPI.pdb
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\obj\Debug\net8.0\ButterflyWebAPI.genruntimeconfig.cache
+c:\Users\mrjoe\OneDrive\Writing a dissertation\Documents\GitHub\ButterflyWebAPI\obj\Debug\net8.0\ref\ButterflyWebAPI.dll
